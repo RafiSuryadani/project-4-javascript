@@ -1,0 +1,30 @@
+.calc-wrap {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background: #dedede;
+    align-items: center;
+
+    .calc-box{
+        width: 360px;
+        padding: 30px;
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+        border-radius: 10px;
+        
+        
+        h4{
+            text-align: center;
+        }
+    
+    }
+
+
+}
+
+.form-hasil{
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    height: 100px;
+    text-align: center;
+    padding-top: 10px;
+}
